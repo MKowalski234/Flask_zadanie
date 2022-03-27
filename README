@@ -1,0 +1,6 @@
+zainstalować flask komendą pip install flask
+po sklonowaniu kodu z repozytorium w terminalu wpisać kolejno
+>>> set FLASK_APP=main.py
+>>> set FLAST_ENV=development
+>>> flask run
+następnie uruchomić kod
